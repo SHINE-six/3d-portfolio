@@ -20,7 +20,16 @@ import redux from "./tech/redux.png";
 import tailwind from "./tech/tailwind.png";
 import typescript from "./tech/typescript.png";
 import threejs from "./tech/threejs.svg";
+import Python from "./tech/Python.png";
+import R from "./tech/R.png";
+import SAS from "./tech/SAS.png";
+import QGIS from "./tech/QGIS.png";
+import Flask from "./tech/Flask.png";
 
+import EyeLevel from "./company/EyeLevel.png";
+import Mahogani from "./company/Mahogani.png";
+import CuppaTwo from "./company/CuppaTwo.png";
+import twoStar from "./company/twoStar.png";
 import meta from "./company/meta.png";
 import shopify from "./company/shopify.png";
 import starbucks from "./company/starbucks.png";
@@ -52,6 +61,15 @@ export {
   tailwind,
   typescript,
   threejs,
+  Python,
+  R,
+  SAS,
+  QGIS,
+  Flask,
+  EyeLevel,
+  Mahogani,
+  CuppaTwo,
+  twoStar,
   meta,
   shopify,
   starbucks,
